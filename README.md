@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Cisco Olthoff /ATOM
-- 👀 I’m interested in big-data-analysis, datastorage, videogame-design and cybersecurity
-- 🌱 I’m currently learning c++ as my first self taught programming language, yeah I'm serious
-- 📫 How to reach me ....... here I guess ..... or per cisco.olthoff@gmail.com
+- 👋 Hi, I’m Cisco Olthoff
+- 👀 I’m interested in big-data-analysis, datastorage, videogame-design, cybersecurity and of course everything AI -related.
+- 📫 How to reach me ....... here I guess ..... or via cisco.olthoff@gmail.com
 
 Meine bisherigen ernsthafte und "sinnvolle" Projekte sind ein Passwortgenerator und -organisierer und eine kunstvolle Darstellung von Kreisen in sfml.
 
